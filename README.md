@@ -1,1 +1,4 @@
-# blog2
+jekyll-blog
+===========
+
+Jekyll blog course with Ajinkya
